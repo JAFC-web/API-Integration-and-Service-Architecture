@@ -1,0 +1,24 @@
+{
+  "name": "space-explorer",
+  "version": "1.0.0",
+  "description": "Trabajo de APLICACIONES WEB ORIENTADAS A SERVICIOS que integra APIs de NASA, YouTube, Mastodon y Mapbox.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "apis",
+    "space"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
